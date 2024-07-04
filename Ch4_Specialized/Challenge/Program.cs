@@ -1,9 +1,5 @@
-﻿// Example file for C# Applied Data Structures by Joe Marini
-// Programming Challenge
-
 using System;
 using System.Collections.Generic;
-using System.Collections.Specialized;
 using System.Text;
 
 namespace Challenge
@@ -13,19 +9,43 @@ namespace Challenge
         static void PrintStringStats(string TheString)
         {
             // Split the string on space character boundary
-            string[] wordArray = TheString.Split(' ');
+            string[] wordArray = TheString.Split(new char[] { ' ', '\n', '\r' });
 
-            // TODO: Count the total number of words
+            // Count the total number of words
+            List<string> words = new List<string>(wordArray);
+            Console.WriteLine($"Total number of words: {words.Count}");
 
+            // Find the longest word
+            string maxword = "";
+            foreach (string x in words)
+            {
+                if (maxword.Length < x.Length)
+                {
+                    maxword = x;
+                }
+            }
+            Console.WriteLine($"Longest word: {maxword}");
 
-            // TODO: Find the longest word
+            // Build the word count data
+            Dictionary<string, int> wordCount = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
+            foreach (string word in words)
+            {
+                if (wordCount.ContainsKey(word))
+                {
+                    wordCount[word]++;
+                }
+                else
+                {
+                    wordCount[word] = 1;
+                }
+            }
 
-
-            // TODO: Build the word count data
-
-
-            // TODO: Print out the word count data
-
+            // Print out the word count data
+            Console.WriteLine("Word counts:");
+            foreach (var entry in wordCount)
+            {
+                Console.WriteLine($"{entry.Key}: {entry.Value}");
+            }
         }
 
         static void Main(string[] args)
@@ -48,8 +68,8 @@ namespace Challenge
                 "and proper that we should do this"
             };
 
-            // TODO: Convert the string array to a single string and call PrintStringStats
-            string TheText = "";
+            // Convert the string array to a single string and call PrintStringStats
+            string TheText = string.Join(" ", GettysburgAddress);
             PrintStringStats(TheText);
         }
     }
