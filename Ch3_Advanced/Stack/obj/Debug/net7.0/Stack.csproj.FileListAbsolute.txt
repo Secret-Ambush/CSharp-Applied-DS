@@ -1,0 +1,14 @@
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\bin\Debug\net7.0\Stack.exe
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\bin\Debug\net7.0\Stack.deps.json
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\bin\Debug\net7.0\Stack.runtimeconfig.json
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\bin\Debug\net7.0\Stack.dll
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\bin\Debug\net7.0\Stack.pdb
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\obj\Debug\net7.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\obj\Debug\net7.0\Stack.AssemblyInfoInputs.cache
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\obj\Debug\net7.0\Stack.AssemblyInfo.cs
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\obj\Debug\net7.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\obj\Debug\net7.0\Stack.dll
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\obj\Debug\net7.0\refint\Stack.dll
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\obj\Debug\net7.0\Stack.pdb
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\obj\Debug\net7.0\Stack.genruntimeconfig.cache
+C:\Users\GOSWAMR1\Desktop\CSharp-Applied-Data-Structures\Start\Ch3_Advanced\Stack\obj\Debug\net7.0\ref\Stack.dll
