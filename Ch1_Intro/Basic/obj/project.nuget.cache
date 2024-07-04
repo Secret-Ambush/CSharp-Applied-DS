@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DR15LvUocLs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GOSWAMR1\\Desktop\\CSharp-Applied-Data-Structures\\Start\\Ch1_Intro\\Basic\\Basic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GOSWAMR1\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\GOSWAMR1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\GOSWAMR1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\GOSWAMR1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
